@@ -1,9 +1,9 @@
 //
 // (C) 2021, Lothar Narins
-// part1: Part 1 of Homework 1, in which the sum of the first N non-negative
-// 		integers is computed.
+// part1_hc: Part 1 of Homework 1, in which the sum of the first PROBLEM_SIZE non-negative
+// 		integers is computed. To compile, PROBLEM_SIZE must be defined as some positive integer.
 // usage:
-// 	part1 [N]
+// 	part1_hc
 //
 // Based on chrono_timer by E. Wes Bethel
 //
